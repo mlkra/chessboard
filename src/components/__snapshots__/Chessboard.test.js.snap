@@ -1,0 +1,1279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chessboard renders board full of black pawns 1`] = `
+<div
+  className="chessboard"
+  onMouseDown={[Function]}
+  onMouseMove={[Function]}
+  onMouseUp={[Function]}
+>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Chessboard renders correctly with default fen 1`] = `
+<div
+  className="chessboard"
+  onMouseDown={[Function]}
+  onMouseMove={[Function]}
+  onMouseUp={[Function]}
+>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--dark"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+    <div
+      className="chessboard__square chessboard__square--light"
+    >
+      <img
+        className="chessboard__piece"
+        draggable="false"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Chessboard renders empty board 1`] = `
+<div
+  className="chessboard"
+  onMouseDown={[Function]}
+  onMouseMove={[Function]}
+  onMouseUp={[Function]}
+>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+  </div>
+  <div
+    className="chessboard__row"
+  >
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+    <div
+      className="chessboard__square chessboard__square--dark"
+    />
+    <div
+      className="chessboard__square chessboard__square--light"
+    />
+  </div>
+</div>
+`;

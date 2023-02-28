@@ -1,0 +1,29 @@
+.chessboard {
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+.chessboard__row {
+    display: flex;
+    flex: 1;
+}
+
+.chessboard__square {
+    flex: 1;
+}
+
+.chessboard__square--light {
+    background-color: whitesmoke;
+}
+
+.chessboard__square--dark {
+    background-color: burlywood;
+}
+
+.chessboard__piece {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
